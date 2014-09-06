@@ -12,11 +12,11 @@ Here is a&nbsp;[guide on my blog](http://sumitraj.com/extract-old-chat-messages-
 
 * * *
 
-### Changelog
-
-# <pre style="padding: 0.85em; margin-bottom: 16px; color: rgb(51\. 51\. 17); font-variant: normal; font-weight: normal; background: rgb(248\. 248\. 248);">V2.1.1 (updated by Sumit Raj - 9 September,2014)
+## Changelog
+```
+V2.1.1 (updated by Sumit Raj - 9 September,2014)
 - new interface working
 - minor bugfixes</pre>
-
+```
 * * *
-_Authored by Sumit Raj &lt;[website](http://sumitraj.com/), isumit96@gmail.com&gt;_
+Authored by Sumit Raj &lt;[website](http://sumitraj.com/), isumit96@gmail.com&gt;_
